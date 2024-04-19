@@ -70,6 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  BrandSteam,
+  Dragon,
+  Tabler2Fa,
 };
 
 // 链接跳转
