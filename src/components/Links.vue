@@ -65,11 +65,9 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
-  CompactDisc,
-  Compass,
-  Book,
+  Dragon,
+  Tabler2Fa,
   Fire,
-  LaptopCode,
 };
 
 // 链接跳转
